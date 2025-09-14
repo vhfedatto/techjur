@@ -59,19 +59,21 @@ Sistema para Gerenciar Processos
 ### 🎨 Equipe Design
 * 📢 Victor H. Fedatto Vasconcelos / [GitHub](https://github.com/vhfedatto)
 * Guilherme dos Santos Barros / [GitHub](https://github.com/GuilhermeSBS10)
+* Rodrigo Batista de Farias / [GitHub](https://github.com/RodrigoBFarias)
+* Kaliel Amblard Selhorst / [GitHub](https://github.com/Selhorstkaliel)
 
 ---
 
 ### 💻 Equipe Front-end
-* Kaliel A. Amblard Selhorst / [GitHub](https://github.com/Selhorstkaliel)
+* 📢 Kaliel A. Amblard Selhorst / [GitHub](https://github.com/Selhorstkaliel)
 * Guilherme dos Santos Barros / [GitHub](https://github.com/GuilhermeSBS10)
 
 ---
 
 ### 🧠 Equipe Back-end
 
-* 📢 Kaliel A. Amblard Selhorst / [GitHub](https://github.com/Selhorstkaliel)
-* Victor H. Fedatto Vasconcelos / [GitHub](https://github.com/vhfedatto)
+* 📢 Victor H. Fedatto Vasconcelos / [GitHub](https://github.com/vhfedatto)
+* Kaliel A. Amblard Selhorst / [GitHub](https://github.com/Selhorstkaliel)
 * Sérgio Lucas P. Sousa / [GitHub](https://github.com/SergioLPSousa)
 
 ---
@@ -80,7 +82,9 @@ Sistema para Gerenciar Processos
 
 * Sérgio Lucas P. Sousa / [GitHub](https://github.com/SergioLPSousa)
 * Leonardo Camilo de S. Filho / [GitHub](https://github.com/Leocfilho)
-* Kaliel A. Amblard Selhorst / [GitHub](https://github.com/Selhorstkaliel)
+* Alisson Rafael Marinho / [GitHub](https://github.com/AlissonRafaelDev)
+* Alexandre B. Cavalcanti Luna / [GitHub](https://github.com/Alexbcluna)
+
 ---
 
 ### 🔨 Equipe Testes
