@@ -9,7 +9,7 @@ Sistema para Gerenciar Processos
 
 ## Informações Importantes
 
-[GitHub](https://github.com/vhfedatto/techjur) | [Figma](https://www.figma.com/design/jHJhLAwsotismwD4AJIqY6/TechJur?node-id=0-1&p=f&t=WFiNRdpiFIihuEtc-0) | [Whimsical]()
+[GitHub](https://github.com/vhfedatto/techjur) <!--|[Figma](https://www.figma.com/design/jHJhLAwsotismwD4AJIqY6/TechJur?node-id=0-1&p=f&t=WFiNRdpiFIihuEtc-0) | [Whimsical]()-->
 
 ## Requisitos do Sistema:
 
