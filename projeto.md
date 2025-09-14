@@ -54,3 +54,36 @@ Sistema para Gerenciar Processos
 
 ---
 
+## 🔰 DIVISÃO DAS EQUIPES
+
+### 🎨 Equipe Design
+* 📢 Victor H. Fedatto Vasconcelos / [GitHub](https://github.com/vhfedatto)
+* Guilherme dos Santos Barros / [GitHub](https://github.com/GuilhermeSBS10)
+
+---
+
+### 💻 Equipe Front-end
+* Kaliel A. Amblard Selhorst / [GitHub](https://github.com/Selhorstkaliel)
+* Guilherme dos Santos Barros / [GitHub](https://github.com/GuilhermeSBS10)
+
+---
+
+### 🧠 Equipe Back-end
+
+* 📢 Kaliel A. Amblard Selhorst / [GitHub](https://github.com/Selhorstkaliel)
+* Victor H. Fedatto Vasconcelos / [GitHub](https://github.com/vhfedatto)
+* Sérgio Lucas P. Sousa / [GitHub](https://github.com/SergioLPSousa)
+
+---
+
+### 🧩 Equipe Banco de Dados
+
+* Sérgio Lucas P. Sousa / [GitHub](https://github.com/SergioLPSousa)
+* Leonardo Camilo de S. Filho / [GitHub](https://github.com/Leocfilho)
+* Kaliel A. Amblard Selhorst / [GitHub](https://github.com/Selhorstkaliel)
+---
+
+### 🔨 Equipe Testes
+* 📢 Leonardo Camilo de S. Filho / [GitHub](https://github.com/Leocfilho)
+
+---
