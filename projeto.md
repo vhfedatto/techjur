@@ -48,9 +48,9 @@ Sistema para Gerenciar Processos
 ### 🏇 **GESTÃO DE ANDAMENTOS**
 
 - Registrar os andamentos do processo.
-
-> Isso implica dizer que:
-
 - Adicionar uma data para o andamento, descrição e o advogado que registrou o andamento.
 
-> Minha ideia é: 
+> Minha ideia é: Transformar o histórico do processo em uma linha do tempo clara, com criação rápida de eventos, anexos e prazos calculados. Cada alteração aparece nessa linha do tempo indicando o que foi feito. Além disso, cada prazo adicionado, irá para um calendário, que armazenará e marcará todas as atividades que devem ser feitas pelo advogado.
+
+---
+
